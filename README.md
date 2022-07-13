@@ -18,7 +18,7 @@ Web technologies used: HTML, CSS, Azure, JavaScript.
 
 IDE: VS-Code
 
-Note:Bot is disabled due to some technical error
+
 
 
 
