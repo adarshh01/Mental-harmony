@@ -604,7 +604,6 @@ footer p a:hover {
   padding-bottom: 110px;
   background-color: #fcfcfc;
   /* border:3px red; */
- 
 }
 
 .block1 {
@@ -642,7 +641,6 @@ footer p a:hover {
   width: 35%;
   scale: 100%;
   /* border: 3px solid red; */
-  
 }
 .items {
   height: max-content;
@@ -660,33 +658,29 @@ footer p a:hover {
   padding: 10px;
 }
 
-.box > span {
-  color: inherit;
-  border-radius: 20px;
+.box > a {
+  color: #229ED9;
+  border-radius: 5px;
   border: 2px solid;
   background: transparent;
   padding: 5px;
   font-family: inherit;
-  font-weight: 500;
+  font-weight: 501;
   font-size: 15px;
 }
 
 .page4 {
-  
-  background-color: #d4d4d4;
+  background-color: #dcdcdc;
   border-radius: 0 0 10px 10px;
- 
 }
 
 .stats {
-  
   background: url("stats.png");
   background-repeat: no-repeat;
   height: 600px;
   width: 100%;
   padding: 0px;
   /* border: 3px solid red; */
- 
 }
 .left {
   width: 40%;
@@ -695,10 +689,10 @@ footer p a:hover {
   text-align: left;
   padding-right: 90px;
   line-height: 1.5;
-  
+
   /* border: 3px solid red; */
 }
-.left> p {
+.left > p {
   padding: 10px;
   font-family: inherit;
   line-height: 1.5;
@@ -717,4 +711,35 @@ footer p a:hover {
 
   /* padding-top: 55px;
   padding-bottom: 110px;  */
+}
+
+
+ iframe {
+  border: 3px solid black;
+  border-radius: 10px;
+  position: sticky;
+  top: 0;
+  left: 100%;
+  height: 250px;
+  
+ 
+  
+}
+.botarea {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: max-content;
+  /* padding: 2%; */
+}
+
+
+.caption > h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  padding: 30px;
+  font-weight: 600;
+  /* border: 3px solid red; */
+  line-height: 1;
+  
 }
