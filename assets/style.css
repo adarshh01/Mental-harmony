@@ -690,7 +690,7 @@ footer p a:hover {
   height: auto;
   font-family: inherit;
   text-align: left;
-  padding-right: 90px;
+/*   padding-right: 90px; */
   line-height: 1.5;
 
   /* border: 3px solid red; */
